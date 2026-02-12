@@ -1,5 +1,16 @@
 # Ft_transcendence planning
 
+## Fullstack (Gabriel)
+
+### Tech stack
+- Docker && Docker-compose
+- Nginx
+- Documentation (Swagger)
+
+### Tasks
+- Check that frontend is using everything backend has to ofer (all microservices endpoints)
+- Implement search filter
+
 ## Backend
 
 ### Team 
@@ -36,17 +47,6 @@
 - Notifications
 - Profile dashboard
 - Swipe interface (tinder like)?
-
-## Fullstack (Gabriel)
-
-### Tech stack
-- Docker && Docker-compose
-- Nginx
-- Documentation (Swagger)
-
-### Tasks
-- Check that frontend is using everything backend has to ofer (all microservices endpoints)
-- Implement search filter
 
 > [!Note]
 > Anything can be changed after the next meeting, nothing here is mandatory
