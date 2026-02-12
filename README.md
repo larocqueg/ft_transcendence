@@ -10,6 +10,7 @@
 ### Tasks
 - Check that frontend is using everything backend has to ofer (all microservices endpoints)
 - Implement search filter
+- Dockerize the project
 
 ## Backend
 
@@ -28,7 +29,7 @@
 - Framework (Next.js)
 - DB (To be decided, PostgreSQL mb?)
 - Communication (Rabbitmq + Redis)
-- Web socker (Socket.io)
+- Web socket (Socket.io)
 - Security (Passport.js)
 
 ## Frontend
