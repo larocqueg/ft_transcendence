@@ -57,7 +57,7 @@
 - Shared Types: Create a shared package/folder for TypeScript interfaces used by both fronted and backend.
 
 ### Phase 2: Core Backend Services
-Auth Service: 42 OAuth implementation, JWT generation, and 2FA (Google Authenticator).
+- Auth Service: 42 OAuth implementation, JWT generation, and 2FA (Google Authenticator).
 
 - User Service: Profile management, stats, and "Swipe" logic data.
 
