@@ -1,6 +1,6 @@
 # Ft_transcendence planning
 
-## Fullstack (Gabriel)
+## Devops (Gabriel)
 
 ### Tech stack
 - Docker && Docker-compose
